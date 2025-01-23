@@ -1,5 +1,3 @@
-import './style.css'
-
 let meContainer = document.querySelector(".me");
 let counter = 0;
 
